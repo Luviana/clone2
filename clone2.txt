@@ -2,9 +2,6 @@ Nama	: Luviana Dewi Indirasari
 Nama Panggilan : Via
 Nama	: Armaningtyas Utami
 Nama Panggilan	: Arma
-<<<<<<< HEAD
 Kelas : XII RPL 5
 Ini perubahan
-=======
 Kelas	: XII RPL 3
->>>>>>> origin/master
